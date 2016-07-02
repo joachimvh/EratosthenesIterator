@@ -1,0 +1,11 @@
+{
+  "name": "eratosthenesiterator",
+  "version": "0.0.1",
+  "description": "Primes ftw",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "asynciterator": "^1.0.0"
+  }
+}
